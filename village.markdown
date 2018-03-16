@@ -18,6 +18,6 @@ Mische die restlichen Karten und lege diese als verdeckten Nachziehstapel bereit
 Lege jeweils eine Karte unter die drei Gebäude (**Burg**, **Turm** und **Taverne**), so dass man diese erkennen kann. Diese Karten stellen die Einwohner der einzelnen Dörfer dar.
 
 ##So wird gespielt##
-Ein Spiel ist in verschiedene Runden unterteilt. In jeder Runde musst Du die feindlichen Einheiten der gegnerischen Dörfer mit Deinen HAndkarten bekämpfen.
+Ein Spiel ist in verschiedene Runden unterteilt. In jeder Runde musst Du die feindlichen Einheiten der gegnerischen Dörfer mit Deinen Handkarten bekämpfen.
 
 Kämpfe laufen genauso ab wie im Basisspiel.
