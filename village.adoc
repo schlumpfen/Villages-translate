@@ -9,7 +9,7 @@ Hah! Schau dir die königlichen Narren an. Rennen einander über das Land, bauen
 Entferne **Burg**, **Turm** und **Taverne** aus dem Kartenstapel. Suche auch die Punktekarten _**Erster!**_ und _**Letzter!**_ heraus. Was mit den einzelnen Punktekarten gemacht wird, hängt vom Schwierigkeitsgrad ab, den Ihr spielen wollt.
 
 -	Für ein normales Spiel behalte die _**Letzter!**_ Karte für Dich und lege die _**Erster!**_ Karte an das obere Ende des Spielbereiches
--	Für ein schweres Spiel behalte die _**Erster!**_ Karte für Dich und lege die _**Letzter!**_ Karte an das obere Ende des Spielbereiches.
+-	Für ein schweres Spiel behalte die _**Erster!**_ Karte image::low_score_german_cut.png[] für Dich und lege die _**Letzter!**_ Karte an das obere Ende des Spielbereiches.
 
 Lege die Karte **Burg** unter die Punktekarte im oberen Spielbereich und die Karten **Turm** und **Taverne** jeweils daneben. Diese Aufstellung repräsentiert die verschiedenen Dörfer, die Du erobern musst.
 
