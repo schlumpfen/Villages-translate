@@ -44,8 +44,8 @@ Die folgende Liste erklärt die Fähigkeiten jeder Karte im Detail, wenn es um D
 |**König**:
 |'Bild Prinzessin'
 |**Prinzessin**: Keine Fähigkeiten.
-|
-|
+|'Bild von '
+|**Dings**: Beschreibung
 |
 |
 |
