@@ -36,7 +36,7 @@ Wenn dem Deck die Karten ausgehen, mischen Sie den Ablagestapel, um ein neues De
 Die folgende Liste erklärt die Fähigkeiten jeder Karte im Detail, wenn es um Dorfangriff geht.
 [cols=2*]
 |===
-|image:images/farmer.png'Bild vom Farmer'
+|image:images/farmer.png 'Bild vom Farmer'
 |**Farmer**: Keine Fähigkeiten. 
 |'Bild vom Builder'
 |**Builder**: Keine Fähigkeiten. 
