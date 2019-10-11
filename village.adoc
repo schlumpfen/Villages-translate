@@ -3,6 +3,9 @@
 # Village Assault 
 Villages Variante Version 1.0
 
+
+//// Text verbessern!
+
 Hah! Schau dir die königlichen Narren an. Rennen einander über das Land, bauen neue Dörfer und bewegte sich genauso schnell wie sie kommen würden. Ich werde es dir sagen, Jungs. Es baut keine Dörfer, was den Schatz verdient ... es verbrennt sie nieder!
 
 **Village Assault** ist eine Einzelspielervariante von Villages und wird mit dem Basisspiel gespielt. Es kann immer nur ein Spieler spielen aber die Ergebnisse können verglichen werden.
