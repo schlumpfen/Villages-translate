@@ -1,0 +1,1 @@
+# Villages Übersetzung der Solovariante
